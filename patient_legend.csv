@@ -1,0 +1,401 @@
+id,red_blood_cells,pus_cell_clumps,bacteria,hypertension,diabetes_mellitus,coronary_artery_disease,appetite,peda_edema,anemia,class
+0,NA,not present,not present,yes,yes,no,good,no,no,ckd
+1,NA,not present,not present,no,no,no,good,no,no,ckd
+2,abnormal,not present,not present,no,yes,no,poor,no,yes,ckd
+3,abnormal,present,not present,yes,no,no,poor,yes,yes,ckd
+4,abnormal,not present,not present,no,no,no,good,no,no,ckd
+5,NA,not present,not present,yes,yes,no,good,yes,no,ckd
+6,NA,not present,not present,no,no,no,good,no,no,ckd
+7,abnormal,not present,not present,no,yes,no,good,yes,no,ckd
+8,abnormal,present,not present,yes,yes,no,good,no,yes,ckd
+9,normal,present,not present,yes,yes,no,poor,no,yes,ckd
+10,NA,present,not present,yes,yes,no,good,no,yes,ckd
+11,normal,present,not present,yes,yes,no,poor,yes,no,ckd
+12,NA,present,not present,yes,yes,yes,poor,yes,no,ckd
+13,NA,not present,not present,yes,yes,yes,poor,yes,no,ckd
+14,abnormal,present,present,yes,yes,yes,poor,yes,no,ckd
+15,NA,not present,not present,yes,no,no,good,no,yes,ckd
+16,NA,not present,not present,no,no,no,good,no,no,ckd
+17,NA,not present,not present,yes,no,no,poor,no,no,ckd
+18,NA,not present,not present,yes,yes,yes,good,no,no,ckd
+19,NA,present,not present,yes,no,yes,good,no,no,ckd
+20,normal,not present,not present,yes,yes,yes,poor,yes,yes,ckd
+21,NA,not present,not present,yes,yes,yes,good,no,no,ckd
+22,abnormal,not present,not present,yes,no,no,good,no,yes,ckd
+23,NA,not present,not present,no,no,no,poor,no,yes,ckd
+24,abnormal,not present,present,yes,no,no,poor,no,no,ckd
+25,NA,not present,not present,yes,yes,no,good,no,yes,ckd
+26,NA,not present,not present,yes,yes,no,poor,no,no,ckd
+27,abnormal,not present,not present,yes,yes,yes,good,yes,no,ckd
+28,NA,not present,not present,no,yes,no,good,no,no,ckd
+29,normal,present,not present,no,no,yes,good,no,no,ckd
+30,NA,not present,not present,yes,yes,no,good,no,no,ckd
+31,NA,present,not present,no,no,no,poor,no,no,ckd
+32,NA,not present,not present,yes,yes,no,poor,no,no,ckd
+33,normal,not present,not present,yes,no,no,poor,no,no,ckd
+34,abnormal,present,present,no,yes,no,poor,no,no,ckd
+35,normal,not present,not present,yes,yes,no,poor,no,yes,ckd
+36,abnormal,not present,not present,yes,no,no,good,no,no,ckd
+37,NA,not present,not present,yes,yes,no,poor,no,yes,ckd
+38,normal,not present,not present,yes,no,no,good,no,no,ckd
+39,abnormal,not present,not present,yes,yes,no,good,no,no,ckd
+40,abnormal,not present,not present,yes,no,no,good,no,no,ckd
+41,NA,not present,not present,no,no,no,good,yes,no,ckd
+42,NA,not present,not present,yes,no,no,good,no,yes,ckd
+43,normal,not present,not present,no,yes,no,good,no,no,ckd
+44,normal,not present,not present,yes,yes,no,poor,yes,no,ckd
+45,NA,not present,not present,yes,yes,no,poor,yes,no,ckd
+46,NA,not present,not present,no,yes,no,good,no,no,ckd
+47,NA,not present,not present,no,no,no,good,no,no,ckd
+48,abnormal,not present,not present,yes,yes,no,good,yes,no,ckd
+49,abnormal,present,not present,yes,yes,no,poor,no,yes,ckd
+50,NA,not present,not present,yes,yes,no,poor,yes,yes,ckd
+51,NA,present,not present,yes,yes,no,poor,yes,no,ckd
+52,NA,not present,not present,no,no,no,poor,no,yes,ckd
+53,NA,not present,not present,yes,yes,no,good,no,no,ckd
+54,abnormal,not present,not present,yes,no,yes,good,no,no,ckd
+55,normal,not present,not present,no,no,no,good,yes,no,ckd
+56,abnormal,present,not present,yes,yes,yes,poor,yes,no,ckd
+57,NA,not present,not present,yes,yes,yes,poor,no,no,ckd
+58,normal,not present,not present,yes,yes,yes,good,no,no,ckd
+59,NA,not present,not present,yes,yes,no,good,no,yes,ckd
+60,NA,present,not present,yes,no,no,good,no,no,ckd
+61,abnormal,not present,not present,no,no,no,good,yes,no,ckd
+62,NA,not present,not present,yes,yes,no,good,no,no,ckd
+63,normal,not present,not present,no,no,no,good,no,yes,ckd
+64,NA,not present,not present,no,no,no,good,no,no,ckd
+65,NA,not present,not present,no,no,no,good,no,no,ckd
+66,normal,not present,not present,yes,yes,no,good,yes,no,ckd
+67,abnormal,not present,not present,no,no,no,poor,no,no,ckd
+68,NA,present,not present,no,no,no,good,no,no,ckd
+69,NA,not present,not present,no,yes,no,good,no,no,ckd
+70,NA,not present,not present,yes,yes,no,good,no,no,ckd
+71,abnormal,not present,not present,yes,yes,no,good,no,no,ckd
+72,NA,present,not present,yes,yes,no,good,yes,no,ckd
+73,normal,not present,not present,yes,no,no,good,yes,yes,ckd
+74,normal,not present,not present,yes,no,no,good,no,no,ckd
+75,NA,not present,not present,no,no,no,good,no,yes,ckd
+76,normal,not present,present,no,yes,no,good,yes,no,ckd
+77,NA,not present,not present,yes,yes,no,good,yes,no,ckd
+78,NA,not present,not present,yes,no,no,good,yes,no,ckd
+79,NA,not present,not present,yes,yes,no,poor,yes,no,ckd
+80,NA,not present,not present,yes,yes,no,good,no,no,ckd
+81,NA,not present,not present,yes,yes,no,good,no,no,ckd
+82,NA,not present,not present,yes,no,no,poor,yes,no,ckd
+83,abnormal,not present,not present,yes,yes,no,good,no,no,ckd
+84,abnormal,not present,not present,yes,no,no,poor,yes,yes,ckd
+85,NA,not present,not present,no,yes,no,poor,yes,no,ckd
+86,NA,not present,not present,no,yes,no,good,no,no,ckd
+87,abnormal,present,not present,yes,yes,no,poor,no,no,ckd
+88,NA,not present,not present,yes,yes,no,good,no,no,ckd
+89,NA,not present,not present,no,no,no,poor,no,no,ckd
+90,abnormal,not present,present,yes,no,yes,good,no,no,ckd
+91,normal,not present,not present,no,no,no,good,no,no,ckd
+92,abnormal,present,present,yes,yes,yes,good,no,no,ckd
+93,normal,present,not present,yes,yes,yes,poor,no,no,ckd
+94,NA,not present,not present,no,yes,no,good,no,no,ckd
+95,NA,not present,not present,yes,no,no,good,yes,yes,ckd
+96,NA,not present,not present,no,yes,yes,poor,no,no,ckd
+97,NA,not present,not present,yes,yes,no,poor,yes,no,ckd
+98,NA,not present,not present,yes,yes,no,poor,no,yes,ckd
+99,NA,not present,not present,yes,yes,no,poor,yes,no,ckd
+100,normal,not present,not present,no,no,no,good,yes,no,ckd
+101,NA,present,present,no,no,no,good,no,no,ckd
+102,NA,not present,not present,no,no,no,good,no,no,ckd
+103,abnormal,present,not present,yes,no,no,poor,yes,yes,ckd
+104,NA,not present,not present,yes,yes,no,poor,yes,no,ckd
+105,NA,not present,not present,no,no,no,good,no,no,ckd
+106,NA,not present,not present,yes,yes,no,good,yes,yes,ckd
+107,abnormal,not present,not present,yes,yes,no,good,no,no,ckd
+108,NA,not present,not present,no,no,no,good,no,no,ckd
+109,NA,not present,not present,no,yes,no,good,no,no,ckd
+110,NA,not present,not present,no,no,no,good,no,no,ckd
+111,NA,not present,not present,yes,yes,yes,good,no,no,ckd
+112,normal,not present,not present,no,no,no,good,no,no,ckd
+113,NA,not present,not present,no,yes,no,poor,no,yes,ckd
+114,normal,present,not present,no,no,no,good,no,no,ckd
+115,NA,not present,not present,no,no,no,good,no,yes,ckd
+116,normal,not present,not present,no,no,no,good,yes,no,ckd
+117,NA,not present,not present,no,no,no,good,no,no,ckd
+118,NA,not present,not present,no,no,no,poor,yes,no,ckd
+119,NA,not present,not present,no,no,no,good,no,no,ckd
+120,NA,not present,not present,no,yes,yes,poor,no,no,ckd
+121,NA,not present,not present,yes,yes,no,good,yes,no,ckd
+122,NA,not present,not present,yes,no,no,good,no,yes,ckd
+123,NA,present,present,no,no,no,good,no,no,ckd
+124,NA,not present,not present,yes,no,no,good,no,no,ckd
+125,NA,not present,not present,yes,yes,no,poor,no,no,ckd
+126,NA,not present,not present,yes,yes,no,poor,yes,no,ckd
+127,abnormal,not present,not present,yes,yes,no,poor,yes,no,ckd
+128,abnormal,not present,not present,yes,yes,no,good,no,yes,ckd
+129,NA,not present,not present,yes,no,no,poor,yes,no,ckd
+130,abnormal,present,present,no,no,no,poor,yes,yes,ckd
+131,NA,not present,not present,no,no,no,good,no,no,ckd
+132,abnormal,not present,not present,yes,no,no,good,yes,yes,ckd
+133,abnormal,not present,not present,yes,no,no,good,no,no,ckd
+134,abnormal,not present,not present,no,yes,no,good,no,no,ckd
+135,NA,not present,not present,no,yes,no,poor,no,no,ckd
+136,NA,not present,not present,yes,yes,no,good,no,no,ckd
+137,abnormal,present,not present,yes,yes,no,good,no,no,ckd
+138,NA,not present,not present,no,no,no,good,no,no,ckd
+139,NA,not present,present,yes,no,no,good,yes,yes,ckd
+140,NA,not present,not present,no,no,no,good,no,no,ckd
+141,abnormal,not present,not present,yes,no,no,good,no,yes,ckd
+142,NA,not present,not present,no,yes,no,good,no,no,ckd
+143,normal,not present,not present,no,yes,no,good,no,no,ckd
+144,normal,not present,not present,no,no,no,good,no,no,ckd
+145,normal,not present,present,yes,yes,yes,poor,yes,yes,ckd
+146,normal,not present,not present,no,yes,no,good,no,no,ckd
+147,abnormal,present,not present,yes,no,no,poor,no,yes,ckd
+148,NA,not present,not present,yes,no,no,poor,no,no,ckd
+149,normal,not present,not present,yes,no,no,good,yes,no,ckd
+150,abnormal,not present,not present,no,no,no,poor,yes,no,ckd
+151,NA,not present,not present,yes,yes,no,good,no,yes,ckd
+152,NA,not present,not present,no,yes,no,good,no,no,ckd
+153,normal,not present,not present,yes,yes,no,poor,yes,yes,ckd
+154,normal,not present,not present,yes,yes,no,poor,yes,yes,ckd
+155,normal,present,present,no,no,no,good,no,no,ckd
+156,NA,not present,present,no,no,no,poor,no,no,ckd
+157,abnormal,not present,not present,yes,yes,no,good,no,no,ckd
+158,abnormal,present,not present,yes,yes,yes,good,no,no,ckd
+159,normal,not present,not present,no,yes,no,poor,no,no,ckd
+160,NA,not present,not present,yes,yes,yes,poor,yes,no,ckd
+161,normal,not present,not present,yes,yes,no,good,no,no,ckd
+162,NA,not present,not present,no,yes,no,good,no,no,ckd
+163,NA,not present,not present,yes,no,no,poor,no,yes,ckd
+164,NA,not present,not present,no,yes,no,poor,yes,no,ckd
+165,NA,not present,not present,no,yes,no,good,no,no,ckd
+166,NA,not present,not present,no,no,no,poor,yes,yes,ckd
+167,normal,not present,not present,no,no,no,poor,no,no,ckd
+168,NA,present,not present,yes,yes,no,good,no,no,ckd
+169,NA,not present,not present,yes,yes,no,good,no,yes,ckd
+170,NA,not present,not present,yes,yes,no,good,no,no,ckd
+171,abnormal,not present,not present,yes,no,no,poor,no,yes,ckd
+172,NA,not present,not present,no,no,no,good,no,no,ckd
+173,normal,not present,not present,no,no,no,good,no,no,ckd
+174,NA,not present,not present,no,no,no,good,no,no,ckd
+175,NA,not present,not present,yes,no,no,good,no,no,ckd
+176,abnormal,present,present,no,no,no,good,no,yes,ckd
+177,abnormal,present,not present,no,yes,no,good,no,no,ckd
+178,normal,present,not present,no,no,no,poor,yes,yes,ckd
+179,NA,present,not present,no,no,no,good,no,no,ckd
+180,normal,present,not present,no,yes,no,good,no,no,ckd
+181,abnormal,present,not present,no,no,no,good,no,no,ckd
+182,NA,not present,not present,no,no,no,good,no,no,ckd
+183,NA,not present,not present,no,no,no,poor,no,no,ckd
+184,NA,not present,not present,yes,yes,yes,poor,yes,no,ckd
+185,NA,not present,not present,no,no,no,good,no,no,ckd
+186,abnormal,not present,not present,no,no,no,good,yes,no,ckd
+187,abnormal,not present,not present,no,no,no,good,no,no,ckd
+188,NA,not present,not present,no,no,no,good,no,no,ckd
+189,normal,not present,present,yes,yes,no,poor,yes,no,ckd
+190,normal,not present,present,no,no,no,poor,no,no,ckd
+191,abnormal,not present,not present,yes,yes,no,poor,no,no,ckd
+192,NA,not present,not present,no,no,no,good,no,no,ckd
+193,normal,not present,not present,yes,yes,no,poor,yes,yes,ckd
+194,NA,not present,not present,yes,yes,no,good,no,no,ckd
+195,normal,not present,present,yes,yes,yes,poor,no,no,ckd
+196,normal,not present,not present,yes,yes,no,poor,yes,yes,ckd
+197,NA,not present,not present,yes,yes,no,good,no,yes,ckd
+198,abnormal,not present,not present,yes,yes,no,poor,yes,no,ckd
+199,NA,not present,not present,yes,no,yes,good,yes,no,ckd
+200,NA,not present,not present,yes,yes,no,good,no,no,ckd
+201,NA,not present,not present,yes,yes,yes,good,yes,yes,ckd
+202,NA,not present,not present,no,yes,no,good,no,yes,ckd
+203,NA,not present,not present,yes,yes,no,good,no,yes,ckd
+204,abnormal,not present,not present,yes,yes,no,good,yes,yes,ckd
+205,NA,not present,not present,yes,yes,no,good,no,no,ckd
+206,NA,not present,not present,yes,no,no,good,no,no,ckd
+207,NA,not present,not present,yes,yes,no,good,no,no,ckd
+208,NA,not present,not present,yes,yes,no,good,no,yes,ckd
+209,NA,not present,not present,no,no,no,good,no,no,ckd
+210,abnormal,not present,not present,yes,yes,yes,good,no,yes,ckd
+211,NA,not present,not present,no,no,no,good,no,no,ckd
+212,abnormal,not present,not present,yes,yes,no,poor,yes,no,ckd
+213,abnormal,present,present,yes,yes,no,good,yes,no,ckd
+214,NA,not present,not present,no,yes,no,good,no,no,ckd
+215,abnormal,not present,not present,no,no,no,good,yes,no,ckd
+216,NA,not present,not present,no,no,no,good,no,no,ckd
+217,NA,not present,not present,no,yes,no,good,no,no,ckd
+218,NA,not present,not present,no,no,no,good,no,no,ckd
+219,NA,not present,not present,yes,yes,no,poor,no,no,ckd
+220,NA,not present,not present,no,no,no,good,no,no,ckd
+221,abnormal,not present,not present,yes,yes,no,good,no,no,ckd
+222,NA,not present,not present,yes,yes,no,good,no,no,ckd
+223,NA,not present,not present,yes,yes,no,good,no,no,ckd
+224,NA,not present,not present,no,no,no,good,yes,no,ckd
+225,normal,not present,present,yes,yes,no,good,no,no,ckd
+226,normal,not present,present,yes,yes,no,good,yes,no,ckd
+227,NA,not present,not present,yes,yes,no,good,no,no,ckd
+228,NA,not present,not present,yes,no,no,good,no,no,ckd
+229,abnormal,not present,not present,no,yes,no,good,yes,no,ckd
+230,abnormal,present,not present,yes,yes,no,poor,no,no,ckd
+231,NA,not present,not present,yes,yes,yes,good,yes,no,ckd
+232,normal,not present,not present,no,no,no,good,yes,no,ckd
+233,abnormal,not present,present,no,no,no,poor,no,no,ckd
+234,normal,not present,not present,yes,no,no,good,no,no,ckd
+235,NA,not present,not present,no,no,yes,good,no,yes,ckd
+236,NA,not present,not present,yes,yes,yes,good,yes,no,ckd
+237,NA,not present,not present,yes,yes,no,poor,yes,no,ckd
+238,NA,not present,not present,yes,yes,no,good,no,yes,ckd
+239,abnormal,not present,not present,no,no,no,good,no,no,ckd
+240,NA,not present,not present,yes,yes,no,poor,yes,no,ckd
+241,NA,not present,not present,no,no,no,good,no,no,ckd
+242,abnormal,present,present,yes,yes,yes,good,yes,yes,ckd
+243,NA,not present,not present,yes,no,no,good,no,no,ckd
+244,NA,present,not present,yes,yes,no,good,no,yes,ckd
+245,NA,not present,not present,yes,no,yes,poor,no,no,ckd
+246,normal,present,not present,yes,no,yes,good,no,yes,ckd
+247,abnormal,not present,not present,no,no,no,poor,yes,yes,ckd
+248,normal,not present,not present,yes,yes,yes,good,no,no,ckd
+249,abnormal,present,not present,yes,yes,no,poor,yes,yes,ckd
+250,abnormal,not present,not present,no,no,no,good,no,no,notckd
+251,abnormal,not present,not present,no,no,no,good,no,no,notckd
+252,abnormal,not present,not present,no,no,no,good,no,no,notckd
+253,abnormal,not present,not present,no,no,no,good,no,no,notckd
+254,abnormal,not present,not present,no,no,no,good,no,no,notckd
+255,abnormal,not present,not present,no,no,no,good,no,no,notckd
+256,abnormal,not present,not present,no,no,no,good,no,no,notckd
+257,abnormal,not present,not present,no,no,no,good,no,no,notckd
+258,abnormal,not present,not present,no,no,no,good,no,no,notckd
+259,abnormal,not present,not present,no,no,no,good,no,no,notckd
+260,abnormal,not present,not present,no,no,no,good,no,no,notckd
+261,abnormal,not present,not present,no,no,no,good,no,no,notckd
+262,abnormal,not present,not present,no,no,no,good,no,no,notckd
+263,abnormal,not present,not present,no,no,no,good,no,no,notckd
+264,abnormal,not present,not present,no,no,no,good,no,no,notckd
+265,abnormal,not present,not present,no,no,no,good,no,no,notckd
+266,abnormal,not present,not present,no,no,no,good,no,no,notckd
+267,abnormal,not present,not present,no,no,no,good,no,no,notckd
+268,NA,not present,not present,no,no,no,good,no,no,notckd
+269,abnormal,not present,not present,no,no,no,good,no,no,notckd
+270,abnormal,not present,not present,no,no,no,good,no,no,notckd
+271,abnormal,not present,not present,no,no,no,good,no,no,notckd
+272,abnormal,not present,not present,no,no,no,good,no,no,notckd
+273,abnormal,not present,not present,no,no,no,good,no,no,notckd
+274,abnormal,not present,not present,no,no,no,good,no,no,notckd
+275,abnormal,not present,not present,no,no,no,good,no,no,notckd
+276,abnormal,not present,not present,no,no,no,good,no,no,notckd
+277,abnormal,not present,not present,no,no,no,good,no,no,notckd
+278,abnormal,not present,not present,no,no,no,good,no,no,notckd
+279,abnormal,not present,not present,no,no,no,good,no,no,notckd
+280,NA,not present,not present,no,no,no,good,no,no,notckd
+281,abnormal,not present,not present,no,no,no,good,no,no,notckd
+282,abnormal,not present,not present,no,no,no,good,no,no,notckd
+283,abnormal,not present,not present,no,no,no,good,no,no,notckd
+284,abnormal,not present,not present,no,no,no,good,no,no,notckd
+285,abnormal,not present,not present,no,no,no,good,no,no,notckd
+286,abnormal,not present,not present,no,no,no,good,no,no,notckd
+287,abnormal,not present,not present,no,no,no,good,no,no,notckd
+288,abnormal,not present,not present,NA,NA,NA,good,no,no,notckd
+289,abnormal,not present,not present,no,no,no,good,no,no,notckd
+290,NA,NA,NA,no,no,no,good,no,no,notckd
+291,abnormal,not present,not present,no,no,no,good,no,no,notckd
+292,abnormal,not present,not present,no,no,no,good,no,no,notckd
+293,abnormal,not present,not present,no,no,no,good,no,no,notckd
+294,abnormal,not present,not present,no,no,no,NA,NA,NA,notckd
+295,NA,not present,not present,no,no,no,good,no,no,notckd
+296,abnormal,not present,not present,no,no,no,good,no,no,notckd
+297,abnormal,not present,not present,NA,NA,NA,good,no,no,notckd
+298,abnormal,not present,not present,no,no,no,good,no,no,notckd
+299,abnormal,not present,not present,no,no,no,good,no,no,notckd
+300,abnormal,NA,NA,no,no,no,good,no,no,notckd
+301,abnormal,not present,not present,no,no,no,good,no,no,notckd
+302,abnormal,not present,not present,no,no,no,good,no,no,notckd
+303,abnormal,not present,not present,no,no,no,good,no,no,notckd
+304,abnormal,not present,not present,no,no,no,good,no,no,notckd
+305,abnormal,not present,not present,no,no,no,good,no,no,notckd
+306,abnormal,not present,not present,no,no,no,good,no,no,notckd
+307,abnormal,not present,not present,no,no,no,good,no,no,notckd
+308,abnormal,not present,not present,no,no,no,good,no,no,notckd
+309,NA,not present,not present,no,no,no,good,no,no,notckd
+310,abnormal,not present,not present,no,no,no,good,no,no,notckd
+311,abnormal,not present,not present,no,no,no,good,no,no,notckd
+312,abnormal,not present,not present,no,no,no,good,no,no,notckd
+313,abnormal,not present,not present,no,no,no,good,no,no,notckd
+314,abnormal,not present,not present,no,no,no,good,no,no,notckd
+315,abnormal,not present,not present,no,no,no,good,no,no,notckd
+316,abnormal,NA,NA,no,no,no,good,no,no,notckd
+317,abnormal,not present,not present,no,no,no,good,no,no,notckd
+318,abnormal,not present,not present,no,no,no,good,no,no,notckd
+319,abnormal,not present,not present,no,no,no,good,no,no,notckd
+320,abnormal,not present,not present,no,no,no,good,no,no,notckd
+321,abnormal,not present,not present,no,no,no,good,no,no,notckd
+322,NA,not present,not present,no,no,no,good,no,no,notckd
+323,abnormal,not present,not present,no,no,no,good,no,no,notckd
+324,abnormal,not present,not present,no,no,no,good,no,no,notckd
+325,abnormal,not present,not present,no,no,no,good,no,no,notckd
+326,abnormal,not present,not present,no,no,no,good,no,no,notckd
+327,abnormal,not present,not present,no,no,no,good,no,no,notckd
+328,abnormal,NA,NA,no,no,no,good,no,no,notckd
+329,abnormal,not present,not present,no,no,no,good,no,no,notckd
+330,abnormal,not present,not present,no,no,no,good,no,no,notckd
+331,abnormal,not present,not present,no,no,no,good,no,no,notckd
+332,abnormal,not present,not present,no,no,no,good,no,no,notckd
+333,abnormal,not present,not present,no,no,no,good,no,no,notckd
+334,abnormal,not present,not present,no,no,no,good,no,no,notckd
+335,abnormal,not present,not present,no,no,no,good,no,no,notckd
+336,abnormal,not present,not present,no,no,no,good,no,no,notckd
+337,abnormal,not present,not present,no,no,no,good,no,no,notckd
+338,abnormal,not present,not present,no,no,no,good,no,no,notckd
+339,abnormal,not present,not present,no,no,no,good,no,no,notckd
+340,abnormal,not present,not present,no,no,no,good,no,no,notckd
+341,abnormal,not present,not present,no,no,no,good,no,no,notckd
+342,abnormal,not present,not present,no,no,no,good,no,no,notckd
+343,abnormal,not present,not present,no,no,no,good,no,no,notckd
+344,abnormal,not present,not present,no,no,no,good,no,no,notckd
+345,abnormal,not present,not present,no,no,no,good,no,no,notckd
+346,abnormal,not present,not present,no,no,no,good,no,no,notckd
+347,abnormal,not present,not present,no,no,no,good,no,no,notckd
+348,abnormal,not present,not present,no,no,no,good,no,no,notckd
+349,NA,not present,not present,no,no,no,good,no,no,notckd
+350,NA,not present,not present,no,no,no,good,no,no,notckd
+351,abnormal,not present,not present,no,no,no,good,no,no,notckd
+352,abnormal,not present,not present,no,no,no,good,no,no,notckd
+353,abnormal,not present,not present,no,no,no,good,no,no,notckd
+354,abnormal,not present,not present,no,no,no,good,no,no,notckd
+355,abnormal,not present,not present,no,no,no,good,no,no,notckd
+356,abnormal,not present,not present,no,no,no,good,no,no,notckd
+357,abnormal,not present,not present,no,no,no,good,no,no,notckd
+358,abnormal,not present,not present,no,no,no,good,no,no,notckd
+359,abnormal,not present,not present,no,no,no,good,no,no,notckd
+360,abnormal,not present,not present,no,no,no,good,no,no,notckd
+361,abnormal,not present,not present,no,no,no,good,no,no,notckd
+362,abnormal,not present,not present,no,no,no,good,no,no,notckd
+363,abnormal,not present,not present,no,no,no,good,no,no,notckd
+364,abnormal,not present,not present,no,no,no,good,no,no,notckd
+365,abnormal,not present,not present,no,no,no,good,no,no,notckd
+366,abnormal,not present,not present,no,no,no,good,no,no,notckd
+367,abnormal,not present,not present,no,no,no,good,no,no,notckd
+368,abnormal,not present,not present,no,no,no,good,no,no,notckd
+369,abnormal,not present,not present,no,no,no,good,no,no,notckd
+370,abnormal,not present,not present,no,no,no,good,no,no,notckd
+371,abnormal,not present,not present,no,no,no,good,no,no,notckd
+372,abnormal,not present,not present,no,no,no,good,no,no,notckd
+373,abnormal,not present,not present,no,no,no,good,no,no,notckd
+374,abnormal,not present,not present,no,no,no,good,no,no,notckd
+375,abnormal,not present,not present,no,no,no,good,no,no,notckd
+376,abnormal,not present,not present,no,no,no,good,no,no,notckd
+377,abnormal,not present,not present,no,no,no,good,no,no,notckd
+378,abnormal,not present,not present,no,no,no,good,no,no,notckd
+379,abnormal,not present,not present,no,no,no,good,no,no,notckd
+380,abnormal,not present,not present,no,no,no,good,no,no,notckd
+381,NA,not present,not present,no,no,no,good,no,no,notckd
+382,abnormal,not present,not present,no,no,no,good,no,no,notckd
+383,abnormal,not present,not present,no,no,no,good,no,no,notckd
+384,abnormal,not present,not present,no,no,no,good,no,no,notckd
+385,abnormal,not present,not present,no,no,no,good,no,no,notckd
+386,abnormal,not present,not present,no,no,no,good,no,no,notckd
+387,abnormal,not present,not present,no,no,no,good,no,no,notckd
+388,abnormal,not present,not present,no,no,no,good,no,no,notckd
+389,abnormal,not present,not present,no,no,no,good,no,no,notckd
+390,abnormal,not present,not present,no,no,no,good,no,no,notckd
+391,abnormal,not present,not present,no,no,no,good,no,no,notckd
+392,abnormal,not present,not present,no,no,no,good,no,no,notckd
+393,abnormal,not present,not present,no,no,no,good,no,no,notckd
+394,abnormal,not present,not present,no,no,no,good,no,no,notckd
+395,abnormal,not present,not present,no,no,no,good,no,no,notckd
+396,abnormal,not present,not present,no,no,no,good,no,no,notckd
+397,abnormal,not present,not present,no,no,no,good,no,no,notckd
+398,abnormal,not present,not present,no,no,no,good,no,no,notckd
+399,abnormal,not present,not present,no,no,no,good,no,no,notckd
