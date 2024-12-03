@@ -1,89 +1,43 @@
--- create patient table
 CREATE TABLE patient (
-    id INT PRIMARY KEY,
-    age INT,
-    blood_pressure INT,
-    specific_gravity DECIMAL,
-    albumin DECIMAL,
-    sugar DECIMAL,
-    red_blood_cells INT UNIQUE,  -- Add UNIQUE constraint
-    pus_cell INT,
-    pus_cell_clumps INT UNIQUE, -- Add UNIQUE constraint
-    bacteria INT UNIQUE,        -- Add UNIQUE constraint
-    blood_glucose_random DECIMAL,
-    blood_urea DECIMAL,
-    serum_creatinine DECIMAL,
-    sodium DECIMAL,
-    potassium DECIMAL,
-    haemoglobin DECIMAL,
-    packed_cell_volume INT,
-    white_blood_cell_count INT,
-    red_blood_cell_count DECIMAL,
-    hypertension INT UNIQUE,    -- Add UNIQUE constraint
-    diabetes_mellitus INT UNIQUE, -- Add UNIQUE constraint
-    coronary_artery_disease INT UNIQUE, -- Add UNIQUE constraint
-    appetite INT UNIQUE,        -- Add UNIQUE constraint
-    peda_edema INT UNIQUE,      -- Add UNIQUE constraint
-    anemia INT UNIQUE,          -- Add UNIQUE constraint
-    class INT UNIQUE
+    id INT PRIMARY KEY,                              -- Patient ID (Primary Key)
+    age INT,                                         -- Age
+    blood_pressure INT,                              -- Blood Pressure
+    specific_gravity DECIMAL,                        -- Specific Gravity
+    albumin DECIMAL,                                 -- Albumin
+    sugar DECIMAL,                                   -- Sugar
+    red_blood_cells INT,                             -- Red Blood Cells
+    pus_cell INT,                                    -- Pus Cell
+    pus_cell_clumps INT,                             -- Pus Cell Clumps
+    bacteria INT,                                    -- Bacteria
+    blood_glucose_random DECIMAL,                    -- Blood Glucose Random
+    blood_urea DECIMAL,                              -- Blood Urea
+    serum_creatinine DECIMAL,                        -- Serum Creatinine
+    sodium DECIMAL,                                  -- Sodium
+    potassium DECIMAL,                               -- Potassium
+    haemoglobin DECIMAL,                             -- Haemoglobin
+    packed_cell_volume INT,                          -- Packed Cell Volume
+    white_blood_cell_count INT,                      -- White Blood Cell Count
+    red_blood_cell_count DECIMAL,                    -- Red Blood Cell Count
+    hypertension INT,                                -- Hypertension (1: Yes, 0: No)
+    diabetes_mellitus INT,                           -- Diabetes Mellitus (1: Yes, 0: No)
+    coronary_artery_disease INT,                     -- Coronary Artery Disease (1: Yes, 0: No)
+    appetite INT,                                    -- Appetite (1: Yes, 0: No)
+    peda_edema INT,                                  -- Pedal Edema (1: Yes, 0: No)
+    anemia INT,                                      -- Anemia (1: Yes, 0: No)
+    class INT                                         -- Class (1: Positive, 0: Negative)
 );
 
-CREATE TABLE red_blood_cells (
-    score INT PRIMARY KEY,
-    description TEXT,
-    FOREIGN KEY (score) REFERENCES patient (red_blood_cells)
-);
-
-CREATE TABLE pus_cell_clumps (
-    score INT PRIMARY KEY,
-    description TEXT,
-    FOREIGN KEY (score) REFERENCES patient (pus_cell_clumps)
-);
-
-CREATE TABLE bacteria (
-    score INT PRIMARY KEY,
-    description TEXT,
-    FOREIGN KEY (score) REFERENCES patient (bacteria)
-);
-
-CREATE TABLE hypertension (
-    score INT PRIMARY KEY,
-    description TEXT,
-    FOREIGN KEY (score) REFERENCES patient (hypertension)
-);
-
-CREATE TABLE diabetes_mellitus (
-    score INT PRIMARY KEY,
-    description TEXT,
-    FOREIGN KEY (score) REFERENCES patient (diabetes_mellitus)
-);
-
-CREATE TABLE coronary_artery_disease (
-    score INT PRIMARY KEY,
-    description TEXT,
-    FOREIGN KEY (score) REFERENCES patient (coronary_artery_disease)
-);
-
-CREATE TABLE appetite (
-    score INT PRIMARY KEY,
-    description TEXT,
-    FOREIGN KEY (score) REFERENCES patient (appetite)
-);
-
-CREATE TABLE peda_edema (
-    score INT PRIMARY KEY,
-    description TEXT,
-    FOREIGN KEY (score) REFERENCES patient (peda_edema)
-);
-
-CREATE TABLE anemia (
-    score INT PRIMARY KEY,
-    description TEXT,
-    FOREIGN KEY (score) REFERENCES patient (anemia)
-);
-
-CREATE TABLE class (
-    score INT PRIMARY KEY,
-    description TEXT,
-    FOREIGN KEY (score) REFERENCES patient (class)
+CREATE TABLE patient_legend (
+    id INT,                                          -- Patient ID (Foreign Key)
+    red_blood_cells VARCHAR(255),                     -- Red Blood Cells Legend
+    pus_cell_clumps VARCHAR(255),                     -- Pus Cell Clumps Legend
+    bacteria VARCHAR(255),                           -- Bacteria Legend
+    hypertension VARCHAR(255),                       -- Hypertension Legend
+    diabetes_mellitus VARCHAR(255),                  -- Diabetes Mellitus Legend
+    coronary_artery_disease VARCHAR(255),            -- Coronary Artery Disease Legend
+    appetite VARCHAR(255),                           -- Appetite Legend
+    peda_edema VARCHAR(255),                         -- Pedal Edema Legend
+    anemia VARCHAR(255),                             -- Anemia Legend
+    class VARCHAR(255),                              -- Class Legend
+    FOREIGN KEY (id) REFERENCES patient(id)          -- Foreign Key Reference to patient table
 );
